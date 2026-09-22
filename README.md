@@ -1,5 +1,4 @@
 # Ufuq AI Tutoring Platform
-
 An offline-first AI tutoring system using Model Context Protocol (MCP) for refugee and underserved students. Works locally via Wi-Fi hotspot with optional cloud integration.
 
 ## 🌟 Features
